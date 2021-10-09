@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+#grad1 {
+  height: 200px;
+  background-image: linear-gradient(blue, pink);
+}
+</style>
+</head>
+<body>
+
+<h1>Linear Gradient - Top to Bottom</h1>
+<p>This linear gradient starts blue at the top, transitioning to pink at the bottom:</p>
+
+<div id="grad1"></div>
+
+</body>
+</html>
